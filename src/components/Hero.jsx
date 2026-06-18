@@ -24,7 +24,7 @@ function Hero() {
           
           className="bg-white text-black px-6 py-3 rounded-lg font-semibold hover:bg-gray-200"
         >
-          Download Resume
+          View Resume
         </a>
 
         <a
