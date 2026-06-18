@@ -35,7 +35,7 @@ points: [
 
 return ( <section className="max-w-6xl mx-auto py-20 px-6"> <h2 className="text-3xl font-bold mb-8">Projects</h2>
 
-```
+
   <div className="space-y-8">
     {projects.map((project) => (
       <div

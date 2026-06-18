@@ -1,7 +1,7 @@
 function About() {
 return ( <section className="max-w-6xl mx-auto py-20 px-6"> <h2 className="text-3xl font-bold mb-8">About Me</h2>
 
-```
+
   <div className="bg-slate-800 p-8 rounded-2xl">
     <p className="text-gray-300 leading-8 text-lg">
       I am <span className="text-white font-semibold">Gaurav Adhithya M</span>,
