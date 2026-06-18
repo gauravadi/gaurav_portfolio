@@ -20,8 +20,8 @@ function Hero() {
       <div className="mt-8 flex gap-4">
 
         <a
-          href="/Gaurav_Adhithya_Resume.pdf"
-          download
+          href="https://drive.google.com/file/d/1g5_J-bM5L96jEk71-ehUDw-GbbKAGlCc/view?usp=sharing"
+          
           className="bg-white text-black px-6 py-3 rounded-lg font-semibold hover:bg-gray-200"
         >
           Download Resume
