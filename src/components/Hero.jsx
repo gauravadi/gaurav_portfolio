@@ -2,8 +2,7 @@ import React from "react";
 
 function Hero() {
   return (
-    <section className="min-h-screen flex flex-col justify-center items-center text-center bg-gradient-to-r from-blue-600 to-purple-700 text-white">
-
+<section className="relative min-h-screen flex flex-col justify-center items-center text-center bg-gradient-to-r from-blue-600 to-purple-700 text-white">
       <h1 className="text-5xl font-bold">
         Gaurav Adhithya M
       </h1>
@@ -46,6 +45,13 @@ function Hero() {
         </a>
 
       </div>
+      <div className="absolute bottom-10 flex flex-col items-center animate-bounce">
+  <span className="text-sm mb-2">Scroll Down</span>
+
+  <div className="w-6 h-10 border-2 border-white rounded-full flex justify-center">
+    <div className="w-1 h-3 bg-white rounded-full mt-2 animate-pulse"></div>
+  </div>
+</div>
 
     </section>
   );
